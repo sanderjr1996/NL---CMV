@@ -1,0 +1,18 @@
+extra_css:
+- stylesheets/custom.css
+nav:
+- Home: index.md
+- Arquitetura:
+  - medidas.md
+  - relationship.md
+- Tabelas:
+  - tabela_Aux_Parâmetro.md
+  - tabela_Dim_Calendario.md
+  - tabela_Dim_Parceiro.md
+  - tabela_Dim_Produto.md
+  - tabela_Fat_Notas.md
+plugins:
+- search
+- mermaid2
+- mkdocstrings
+site_name: NL - CMV

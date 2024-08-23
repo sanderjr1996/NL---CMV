@@ -1,0 +1,91 @@
+
+## Tabela: Dim_Calendario
+<div class="table-responsive">
+<table border="1" class="dataframe styled-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Tabela</th>
+      <th>Coluna</th>
+      <th>OrdenadaPor</th>
+      <th>Formato</th>
+      <th>EstaOculto</th>
+      <th>Expressao</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>AnoNum</td>
+      <td></td>
+      <td>Int</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>Data</td>
+      <td></td>
+      <td>Short Date</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>Desconsiderar?</td>
+      <td></td>
+      <td>String</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>MesNomeAbrev</td>
+      <td>MesNum</td>
+      <td>String</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>MesNum</td>
+      <td></td>
+      <td>Int</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>SemestreAnoNome</td>
+      <td>SemestreDoAnoNum</td>
+      <td>String</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>SemestreDoAnoNum</td>
+      <td></td>
+      <td>Int</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>TrimestreAnoNome</td>
+      <td>TrimestreNum</td>
+      <td>String</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dim_Calendario</td>
+      <td>TrimestreNum</td>
+      <td></td>
+      <td>Int</td>
+      <td>False</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+            
