@@ -33,6 +33,7 @@ O **CMV** é calculado da seguinte maneira:
 O **MarkUp** é uma forma de determinar quanto uma empresa adiciona ao custo de um produto para chegar ao preço de venda, expressando isso em relação ao custo.
 
 O **MarkUp** é calculado da seguinte maneira:
+    
     Faturamento Líquido ÷ Custos
 
 ## Página 2 - Fornecedores - Análise de Compra e Participação
